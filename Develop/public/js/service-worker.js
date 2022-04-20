@@ -52,7 +52,7 @@ self.addEventListener('install', function (e) {
   )
 })
 
-// Delete outdated caches
+// Deletes outdated caches
 self.addEventListener('activate', function (e) {
   e.waitUntil(
     caches.keys().then(function (keyList) {
