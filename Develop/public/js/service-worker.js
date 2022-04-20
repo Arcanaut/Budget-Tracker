@@ -21,10 +21,6 @@ const FILES_TO_CACHE = [
   "./js/idb.js",
   "./js/index.js",
   "./manifest.json",
-  "./dist/app.bundle.js",
-  "./dist/events.bundle.js",
-  "./dist/tickets.bundle.js",
-  "./dist/schedule.bundle.js"
 ];
 
 // Respond with cached resources
