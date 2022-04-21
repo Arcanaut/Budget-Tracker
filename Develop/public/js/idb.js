@@ -46,7 +46,6 @@ function saveRecord(record) {
 
 function uploadTransaction() {
     // open a transaction on your db
-    //TODO: get transaction's value to be read
     const transaction = db.transaction(['new_transaction'], 'readwrite');
 
     // access your object store

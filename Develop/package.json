@@ -1,5 +1,5 @@
 {
-  "name": "budget-app",
+  "name": "budget-tracker",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/Arcanaut/Budget-Tracker.git"
   },
   "author": "Brendan Ahearn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/Arcanaut/Budget-Tracker/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/Arcanaut/Budget-Tracker#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
