@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Arcanaut/Budget-Tracker.git"
   },
-  "author": "",
+  "author": "Brendan Ahearn",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Arcanaut/Budget-Tracker/issues"
