@@ -3,7 +3,9 @@ Designed and developed by Brendan Ahearn
 
 ![Hello Word](https://github.com/Arcanaut/Budget-Tracker/blob/main/public/assets/thumbnail.png)
 ## App Description
+A budgeting app that tracks money gained and money loss over time and builds a graph to represent the account history.
 
+## App Components
 HTML,
 CSS,
 JavaScript,
