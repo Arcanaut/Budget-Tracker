@@ -1,4 +1,4 @@
-# Hello Word!
+# Budget-Tracker!
 Designed and developed by Brendan Ahearn
 
 ![Hello Word](https://github.com/Arcanaut/Budget-Tracker/blob/main/public/assets/thumbnail.png)
